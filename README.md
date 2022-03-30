@@ -1,8 +1,8 @@
 ## Biography
 
-I am currently a graduate student, studying in the school of software, Shandong University. The main research area is fine-grained image analysis.
+I received my B.S. degree in Department of Software Engineering in June 2021 from [Shandong University ](http://www.sdu.edu.cn/). In the same year, I was admitted to study for a M.S. degree in [Shandong University.](http://www.sdu.edu.cn/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently I am a first year graduate student of [Department of Software Engineering](http://www.sc.sdu.edu.cn/) in [Shandong University](http://www.sdu.edu.cn/) and a member of [MIMA Group](http://mima.sdu.edu.cn/) , led by professor [Xin-Shun Xu.](http://mima.sdu.edu.cn/Members/xinshunxu)
 
 ### Interests
 
@@ -10,17 +10,39 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 
-**Bold** and _Italic_ and `Code` text
+- Bachelor of Engineering in Software Engineering
+  - School of software, Shandong University
+  - 2017.9 - 2021.6
+- Master's degree in Artificial Intelligence
+  - School of software, Shandong University
+  - 2021.9 - now
 
-[Link](url) and ![Image](src)
-```
+### Publications
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+1. ViT-FOD: A Vision Transformer based Fine-grained Object Discriminator
 
-### Jekyll Themes
+   Zi-Chao Zhang, Zhen-Duo Chen,Yongxin Wang, Xin Luo, Xin-Shun Xu
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zzc98/zzc98.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    arXiv:2203.12816
 
-### Support or Contact
+2. S3Mix: Same Category Same Semantics Mixing for Augmenting Fine-grained Images
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   Zi-Chao Zhang, Zhen-Yu Xie, Zhen-Duo Chen, Xin-Shun Xu
+
+3. What Misleads You to Wrong Results? A Fine-grained Image Classification Method with Misleading Regions Mining and Correcting
+
+   Zhen-Duo Chen, Zi-Chao Zhang, Zhen-Yu Xie, Xin Luo, Xin-Shun Xu
+
+## Supervisor
+
+Professor [Xin-Shun Xu](http://cs.sdu.edu.cn/zhouzh/), Zhen-Duo Chen
+
+## Pages
+
+- [Google Scholar](https://scholar.google.no/citations?user=Tc-PRBQAAAAJ)
+- [ORCID](https://orcid.org/0000-0003-1365-4401)
+- [Semantic Scholar](https://www.semanticscholar.org/author/2128158898)
+
+## Emails
+
+zhangzichao1008@16.com
