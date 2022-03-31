@@ -42,7 +42,8 @@ Professor [Xin-Shun Xu](http://cs.sdu.edu.cn/zhouzh/), Zhen-Duo Chen
 - [Google Scholar](https://scholar.google.no/citations?user=Tc-PRBQAAAAJ)
 - [ORCID](https://orcid.org/0000-0003-1365-4401)
 - [Semantic Scholar](https://www.semanticscholar.org/author/2128158898)
+- [DBLP](https://dblp.org/pid/276/0696-2)
 
 ## Emails
 
-zhangzichao1008@16.com
+zhangzichao1008@163.com
