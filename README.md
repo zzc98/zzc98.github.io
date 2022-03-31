@@ -10,12 +10,13 @@ Currently I am a first year graduate student of [Department of Software Engineer
 
 ### Education
 
-- Bachelor of Engineering in Software Engineering
-  - School of software, Shandong University
-  - 2017.9 - 2021.6
 - Master's degree in Artificial Intelligence
   - School of software, Shandong University
   - 2021.9 - now
+- Bachelor of Engineering in Software Engineering
+  - School of software, Shandong University
+  - 2017.9 - 2021.6
+
 
 ### Publications
 
