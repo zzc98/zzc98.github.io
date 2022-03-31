@@ -39,6 +39,7 @@ Professor [Xin-Shun Xu](http://cs.sdu.edu.cn/zhouzh/), Zhen-Duo Chen
 
 ## Pages
 
+- [HomePage](https://zzc98.github.io)
 - [Google Scholar](https://scholar.google.no/citations?user=Tc-PRBQAAAAJ)
 - [ORCID](https://orcid.org/0000-0003-1365-4401)
 - [Semantic Scholar](https://www.semanticscholar.org/author/2128158898)
