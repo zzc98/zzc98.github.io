@@ -36,7 +36,7 @@ Currently I am a first year graduate student of [Department of Software Engineer
 
 ## Supervisor
 
-Professor [Xin-Shun Xu](http://cs.sdu.edu.cn/zhouzh/), Zhen-Duo Chen
+Professor [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.html), Zhen-Duo Chen
 
 ## Pages
 
