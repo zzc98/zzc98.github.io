@@ -23,13 +23,13 @@ Currently I am a first year graduate student of [Department of Software Engineer
 1. ViT-FOC: A Vision Transformer based Fine-grained Object Discriminator
 
    **Zi-Chao Zhang**, Zhen-Duo Chen,Yongxin Wang, Xin Luo, Xin-Shun Xu
-
-   https://arxiv.org/pdf/2203.12816.pdf
+   
+    [https://arxiv.org/abs/2203.12816](https://arxiv.org/abs/2203.12816)
 
 2. S3Mix: Same Category Same Semantics Mixing for Augmenting Fine-grained Images
 
    **Zi-Chao Zhang**, Zhen-Duo Chen, Zhen-Yu Xie,  Xin Luo, Xin-Shun Xu
-
+   
 3. WLAW-Net: Window-based Local Alignment Weighted Network for Fine-grained Sketch-based Image Retrieval
 
    **Zi-Chao Zhang**, Zhenyu Xie, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu
@@ -44,13 +44,10 @@ Currently I am a first year graduate student of [Department of Software Engineer
 
 ### Projects
 
-1. DCL Replication based on Paddle Framework
+1. [DCL Replication based on Paddle Framework](https://aistudio.baidu.com/aistudio/projectdetail/3955190)
 
-   url: https://aistudio.baidu.com/aistudio/projectdetail/3955190
+2. [Image retrieval on Google-landmark dataset based on MMClassification](https://github.com/open-mmlab/mmclassification)
 
-2. Image retrieval on Google-landmark dataset based on MMClassification
-
-   url: https://github.com/open-mmlab/mmclassification
 
 ## Supervisor
 
