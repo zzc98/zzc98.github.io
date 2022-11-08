@@ -20,12 +20,10 @@ Currently I am a first year graduate student of [Department of Software Engineer
 
 ### Publications
 
-1. ViT-FOC: A Vision Transformer based Fine-grained Object Discriminator
+1. [ViT-FOC: A Vision Transformer based Fine-grained Object Discriminator](https://arxiv.org/abs/2203.12816)
 
    **Zi-Chao Zhang**, Zhen-Duo Chen,Yongxin Wang, Xin Luo, Xin-Shun Xu
    
-    [https://arxiv.org/abs/2203.12816](https://arxiv.org/abs/2203.12816)
-
 2. S3Mix: Same Category Same Semantics Mixing for Augmenting Fine-grained Images
 
    **Zi-Chao Zhang**, Zhen-Duo Chen, Zhen-Yu Xie,  Xin Luo, Xin-Shun Xu
