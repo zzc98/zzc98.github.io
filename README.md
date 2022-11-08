@@ -20,19 +20,37 @@ Currently I am a first year graduate student of [Department of Software Engineer
 
 ### Publications
 
-1. ViT-FOD: A Vision Transformer based Fine-grained Object Discriminator
+1. ViT-FOC: A Vision Transformer based Fine-grained Object Discriminator
 
-   Zi-Chao Zhang, Zhen-Duo Chen,Yongxin Wang, Xin Luo, Xin-Shun Xu
+   **Zi-Chao Zhang**, Zhen-Duo Chen,Yongxin Wang, Xin Luo, Xin-Shun Xu
 
-    arXiv:2203.12816
+   https://arxiv.org/pdf/2203.12816.pdf
 
 2. S3Mix: Same Category Same Semantics Mixing for Augmenting Fine-grained Images
 
-   Zi-Chao Zhang, Zhen-Yu Xie, Zhen-Duo Chen, Xin-Shun Xu
+   Zi-Chao Zhang, Zhen-Duo Chen, Zhen-Yu Xie,  Xin Luo, Xin-Shun Xu
+   
+3. WLAW-Net: Window-based Local Alignment Weighted Network for Fine-grained Sketch-based Image Retrieval
 
-3. What Misleads You to Wrong Results? A Fine-grained Image Classification Method with Misleading Regions Mining and Correcting
+   **Zi-Chao Zhang**, Zhenyu Xie, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu
 
-   Zhen-Duo Chen, Zi-Chao Zhang, Zhen-Yu Xie, Xin Luo, Xin-Shun Xu
+4. What Misleads You to Wrong Results? A Fine-grained Image Classification Method with Misleading Regions Mining and Correcting
+
+   Zhen-Duo Chen, **Zi-Chao Zhang**, Zhen-Yu Xie, Xin Luo, Xin-Shun Xu
+
+5. Global-Part Relation based Discrimination Enhancement Hashing for Fine-Grained Image Retrieval
+
+   Zhen-Duo Chen, **Zi-Chao Zhang**, Yongxin Wang, Xin Luo, Xin-Shun Xu
+
+### Projects
+
+1. DCL Replication based on Paddle Framework
+
+   url: https://aistudio.baidu.com/aistudio/projectdetail/3955190
+
+2. Image retrieval on Google-landmark dataset based on MMClassification
+
+   url: https://github.com/open-mmlab/mmclassification
 
 ## Supervisor
 
