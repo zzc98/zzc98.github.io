@@ -28,8 +28,8 @@ Currently I am a first year graduate student of [Department of Software Engineer
 
 2. S3Mix: Same Category Same Semantics Mixing for Augmenting Fine-grained Images
 
-   Zi-Chao Zhang, Zhen-Duo Chen, Zhen-Yu Xie,  Xin Luo, Xin-Shun Xu
-   
+   **Zi-Chao Zhang**, Zhen-Duo Chen, Zhen-Yu Xie,  Xin Luo, Xin-Shun Xu
+
 3. WLAW-Net: Window-based Local Alignment Weighted Network for Fine-grained Sketch-based Image Retrieval
 
    **Zi-Chao Zhang**, Zhenyu Xie, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu
