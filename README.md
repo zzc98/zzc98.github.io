@@ -24,21 +24,6 @@ Currently I am a first year graduate student of [Department of Software Engineer
 
    **Zi-Chao Zhang**, Zhen-Duo Chen,Yongxin Wang, Xin Luo, Xin-Shun Xu
    
-2. S3Mix: Same Category Same Semantics Mixing for Augmenting Fine-grained Images
-
-   **Zi-Chao Zhang**, Zhen-Duo Chen, Zhen-Yu Xie,  Xin Luo, Xin-Shun Xu
-   
-3. WLAW-Net: Window-based Local Alignment Weighted Network for Fine-grained Sketch-based Image Retrieval
-
-   **Zi-Chao Zhang**, Zhenyu Xie, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu
-
-4. What Misleads You to Wrong Results? A Fine-grained Image Classification Method with Misleading Regions Mining and Correcting
-
-   Zhen-Duo Chen, **Zi-Chao Zhang**, Zhen-Yu Xie, Xin Luo, Xin-Shun Xu
-
-5. Global-Part Relation based Discrimination Enhancement Hashing for Fine-Grained Image Retrieval
-
-   Zhen-Duo Chen, **Zi-Chao Zhang**, Yongxin Wang, Xin Luo, Xin-Shun Xu
 
 ### Projects
 
