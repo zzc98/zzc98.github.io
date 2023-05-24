@@ -20,7 +20,7 @@ Currently I am a first year graduate student of [Department of Software Engineer
 
 ### Publications
 
-1. [A Vision Transformer for Fine-grained Classification by Reducing Noise and Enhancing Discrimnative Information)
+1. [A Vision Transformer for Fine-grained Classification by Reducing Noise and Enhancing Discrimnative Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4373085#maincontent)
 
    **Zi-Chao Zhang**, Zhen-Duo Chen,Yongxin Wang, Xin Luo, Xin-Shun Xu
    
