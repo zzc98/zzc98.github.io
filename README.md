@@ -2,7 +2,7 @@
 
 I received my B.S. degree in Department of Software Engineering in June 2021 from [Shandong University ](http://www.sdu.edu.cn/). In the same year, I was admitted to study for a M.S. degree in [Shandong University.](http://www.sdu.edu.cn/)
 
-Currently I am a first year graduate student of [Department of Software Engineering](http://www.sc.sdu.edu.cn/) in [Shandong University](http://www.sdu.edu.cn/) and a member of [MIMA Group](http://mima.sdu.edu.cn/) , led by professor [Xin-Shun Xu.](http://mima.sdu.edu.cn/Members/xinshunxu)
+Currently I am a third year graduate student of [School of Software](http://www.sc.sdu.edu.cn/) in [Shandong University](http://www.sdu.edu.cn/) and a member of [MIMA Group](http://mima.sdu.edu.cn/) , led by professor [Xin-Shun Xu.](http://mima.sdu.edu.cn/Members/xinshunxu)
 
 ### Interests
 
