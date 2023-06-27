@@ -20,16 +20,20 @@ Currently I am a first year graduate student of [Department of Software Engineer
 
 ### Publications
 
-1. [A Vision Transformer for Fine-grained Classification by Reducing Noise and Enhancing Discrimnative Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4373085#maincontent)
+1. [S3Mix: Same Category Same Semantics Mixing for Augmenting Fine-grained Images](https://dl.acm.org/doi/10.1145/3605892)
 
-   **Zi-Chao Zhang**, Zhen-Duo Chen,Yongxin Wang, Xin Luo, Xin-Shun Xu
+   **Zi-Chao Zhang**, Zhen-Duo Chen, Zhen-Yu Xie, Xin Luo, Xin-Shun Xu
+
+2. [A Vision Transformer for Fine-grained Classification by Reducing Noise and Enhancing Discrimnative Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4373085#maincontent)
+
+   **Zi-Chao Zhang**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu
    
 
 ### Projects
 
-1. [DCL Replication based on Paddle Framework](https://aistudio.baidu.com/aistudio/projectdetail/3955190)
+1. DCL Replication based on Paddle Framework: [AIStudio](https://aistudio.baidu.com/aistudio/projectdetail/3955190) [GitHub](https://github.com/zzc98/PaddlePaddle_DCL)
 
-2. [Image retrieval on Google-landmark dataset based on MMClassification](https://github.com/open-mmlab/mmclassification)
+2. [Image retrieval on Google-landmark dataset based on MMClassification](https://github.com/zzc98/mmclassification/issues/1)
 
 
 ## Supervisor
