@@ -24,7 +24,11 @@ Currently I am a third year graduate student of [School of Software](http://www.
 
    **Zi-Chao Zhang**, Zhen-Duo Chen, Zhen-Yu Xie, Xin Luo, Xin-Shun Xu
 
-2. [A Vision Transformer for Fine-grained Classification by Reducing Noise and Enhancing Discrimnative Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4373085#maincontent)
+2. [Expansion Window Local Alignment Weighted Network for Fine-grained Sketch-based Image Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005903)
+
+   **Zi-Chao Zhang**, Zhen-Yu Xie, Zhen-Duo Chen, Yu-Wei Zhan, Xin Luo, Xin-Shun Xu
+
+3. [A Vision Transformer for Fine-grained Classification by Reducing Noise and Enhancing Discrimnative Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4373085#maincontent)
 
    **Zi-Chao Zhang**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu
    
