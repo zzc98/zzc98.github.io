@@ -28,7 +28,7 @@ Currently I am a third year graduate student of [School of Software](http://www.
 
    **Zi-Chao Zhang**, Zhen-Yu Xie, Zhen-Duo Chen, Yu-Wei Zhan, Xin Luo, Xin-Shun Xu
 
-3. [A Vision Transformer for Fine-grained Classification by Reducing Noise and Enhancing Discrimnative Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4373085#maincontent)
+3. [A Vision Transformer for Fine-grained Classification by Reducing Noise and Enhancing Discrimnative Information](https://www.sciencedirect.com/science/article/abs/pii/S0031320323006775)
 
    **Zi-Chao Zhang**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu
    
