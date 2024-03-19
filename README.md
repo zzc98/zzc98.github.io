@@ -20,21 +20,15 @@ Currently I am a third year graduate student of [School of Software](http://www.
 
 ### Publications
 
-1. [S3Mix: Same Category Same Semantics Mixing for Augmenting Fine-grained Images](https://dl.acm.org/doi/10.1145/3605892)
+1. **Zi-Chao Zhang**, Zhen-Duo Chen, Zhen-Yu Xie, Xin Luo, Xin-Shun Xu. [S3Mix: Same Category Same Semantics Mixing for Augmenting Fine-grained Images](https://dl.acm.org/doi/10.1145/3605892) ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM), 2024.
 
-   **Zi-Chao Zhang**, Zhen-Duo Chen, Zhen-Yu Xie, Xin Luo, Xin-Shun Xu
+2. **Zi-Chao Zhang**, Zhen-Yu Xie, Zhen-Duo Chen, Yu-Wei Zhan, Xin Luo, Xin-Shun Xu. [Expansion window local alignment weighted network for fine-grained sketch-based image retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005903) Pattern Recognition (PR), 2023. 
 
-2. [Expansion Window Local Alignment Weighted Network for Fine-grained Sketch-based Image Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005903)
+3. **Zi-Chao Zhang**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu. [A vision transformer for fine-grained classification by reducing noise and enhancing discriminative information](https://www.sciencedirect.com/science/article/abs/pii/S0031320323006775) Pattern Recognition (PR), 2024. 
 
-   **Zi-Chao Zhang**, Zhen-Yu Xie, Zhen-Duo Chen, Yu-Wei Zhan, Xin Luo, Xin-Shun Xu
+4. Zhen-Duo Chen, Li-Jun Zhao, **Zi-Chao Zhang**, Xin Luo, Xin-Shun Xu. [Characteristics matching based hash codes generation for efficient fine-grained image retrieval](). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
-3. [A Vision Transformer for Fine-grained Classification by Reducing Noise and Enhancing Discrimnative Information](https://www.sciencedirect.com/science/article/abs/pii/S0031320323006775)
-
-   **Zi-Chao Zhang**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu
-
-4. [Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-Grained Image Classification]()
-
-   Zhen-Xiang Ma, Zhen-Duo Chen, Li-Jun Zhao, **Zi-Chao Zhang**, Xin Luo, Xin-Shun Xu
+5. Zhen-Xiang Ma, Zhen-Duo Chen, Li-Jun Zhao, **Zi-Chao Zhang**, Xin Luo, Xin-Shun Xu. [Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-Grained Image Classification]() AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
 ### Projects
 
