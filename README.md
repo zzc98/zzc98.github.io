@@ -26,9 +26,11 @@ Currently I am a third year graduate student of [School of Software](http://www.
 
 3. **Zi-Chao Zhang**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu. [A vision transformer for fine-grained classification by reducing noise and enhancing discriminative information](https://www.sciencedirect.com/science/article/abs/pii/S0031320323006775) Pattern Recognition (PR), 2024. 
 
-4. Zhen-Duo Chen, Li-Jun Zhao, **Zi-Chao Zhang**, Xin Luo, Xin-Shun Xu. [Characteristics matching based hash codes generation for efficient fine-grained image retrieval](). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+4. Zhen-Duo Chen, Li-Jun Zhao, **Zi-Chao Zhang**, Xin Luo, Xin-Shun Xu. [Characteristics matching based hash codes generation for efficient fine-grained image retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Characteristics_Matching_Based_Hash_Codes_Generation_for_Efficient_Fine-grained_Image_CVPR_2024_paper.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
-5. Zhen-Xiang Ma, Zhen-Duo Chen, Li-Jun Zhao, **Zi-Chao Zhang**, Xin Luo, Xin-Shun Xu. [Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-Grained Image Classification]() AAAI Conference on Artificial Intelligence (AAAI), 2024.
+5. Zhen-Xiang Ma, Zhen-Duo Chen, Li-Jun Zhao, **Zi-Chao Zhang**, Xin Luo, Xin-Shun Xu. [Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-Grained Image Classification](https://ojs.aaai.org/index.php/AAAI/article/view/28208). AAAI Conference on Artificial Intelligence (AAAI), 2024.
+
+6. Zhen-Xiang Ma, Zhen-Duo Chen, Li-Jun Zhao, **Zi-Chao Zhang**, Tai Zheng, Xin Luo, Xin-Shun Xu. [Bi-directional Task-Guided Network for Few-Shot Fine-Grained Image Classification](). ACM MM (ACM International Conference on Multimedia) 2024.
 
 ### Projects
 
