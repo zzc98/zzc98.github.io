@@ -1,18 +1,19 @@
 ## Biography
 
-I received my B.S. degree in Department of Software Engineering in June 2021 from [Shandong University ](http://www.sdu.edu.cn/). In the same year, I was admitted to study for a M.S. degree in [Shandong University.](http://www.sdu.edu.cn/)
+I received my B.S. degree in Department of Software Engineering in June 2021 from [Shandong University](http://www.sdu.edu.cn/). In the same year, I was admitted to study for a M.S. degree in [Shandong University](http://www.sdu.edu.cn/) [School of Software](https://www.sc.sdu.edu.cn/). During postgraduate studies, I was a member of [MIMA Group](http://mima.sdu.edu.cn/) , led by professor [Xin-Shun Xu.](http://mima.sdu.edu.cn/Members/xinshunxu), and received my M.S. degree in Artificial Intelligence in June 2024.
 
-Currently I am a third year graduate student of [School of Software](http://www.sc.sdu.edu.cn/) in [Shandong University](http://www.sdu.edu.cn/) and a member of [MIMA Group](http://mima.sdu.edu.cn/) , led by professor [Xin-Shun Xu.](http://mima.sdu.edu.cn/Members/xinshunxu)
+Currently, I'm working at Sansec as a Development Engineer.
 
 ### Interests
 
 - Fine-grained image analysis
+- Large Language Model
 
 ### Education
 
 - Master's degree in Artificial Intelligence
   - School of software, Shandong University
-  - 2021.9 - now
+  - 2021.9 - 2024.6
 - Bachelor of Engineering in Software Engineering
   - School of software, Shandong University
   - 2017.9 - 2021.6
@@ -30,18 +31,13 @@ Currently I am a third year graduate student of [School of Software](http://www.
 
 5. Zhen-Xiang Ma, Zhen-Duo Chen, Li-Jun Zhao, **Zi-Chao Zhang**, Xin Luo, Xin-Shun Xu. [Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-Grained Image Classification](https://ojs.aaai.org/index.php/AAAI/article/view/28208). AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
-6. Zhen-Xiang Ma, Zhen-Duo Chen, Li-Jun Zhao, **Zi-Chao Zhang**, Tai Zheng, Xin Luo, Xin-Shun Xu. [Bi-directional Task-Guided Network for Few-Shot Fine-Grained Image Classification](). ACM MM (ACM International Conference on Multimedia) 2024.
+6. Zhen-Xiang Ma, Zhen-Duo Chen, Li-Jun Zhao, **Zi-Chao Zhang**, Tai Zheng, Xin Luo, Xin-Shun Xu. [Bi-directional Task-Guided Network for Few-Shot Fine-Grained Image Classification](https://openreview.net/pdf?id=FwlYlM6nLj). ACM International Conference on Multimedia (ACM MM) 2024.
 
 ### Projects
 
 1. DCL Replication based on Paddle Framework: [AIStudio](https://aistudio.baidu.com/aistudio/projectdetail/3955190) [GitHub](https://github.com/zzc98/PaddlePaddle_DCL)
 
 2. [Image retrieval on Google-landmark dataset based on MMClassification](https://github.com/zzc98/mmclassification/issues/1)
-
-
-## Supervisor
-
-Professor [Xin-Shun Xu](https://www.sc.sdu.edu.cn/info/1044/2253.htm), Zhen-Duo Chen
 
 
 ## Pages
