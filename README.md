@@ -2,7 +2,7 @@
 
 I received my B.S. degree in Department of Software Engineering in June 2021 from [Shandong University](http://www.sdu.edu.cn/). In the same year, I was admitted to study for a M.S. degree in [Shandong University](http://www.sdu.edu.cn/) [School of Software](https://www.sc.sdu.edu.cn/). During postgraduate studies, I was a member of [MIMA Group](http://mima.sdu.edu.cn/) , led by professor [Xin-Shun Xu.](http://mima.sdu.edu.cn/Members/xinshunxu), and received my M.S. degree in Artificial Intelligence in June 2024.
 
-Currently, I'm working at Sansec as a Development Engineer.
+Currently, I'm working at [Sansec](https://www.sansec.com.cn/) as a Development Engineer.
 
 ### Interests
 
