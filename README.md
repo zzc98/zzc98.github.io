@@ -25,6 +25,7 @@ Currently, I'm working at [Sansec](https://www.sansec.com.cn/) as a Development 
 
 6. Zhen-Xiang Ma, Zhen-Duo Chen, Li-Jun Zhao, **Zi-Chao Zhang**, Tai Zheng, Xin Luo, Xin-Shun Xu. [Bi-directional Task-Guided Network for Few-Shot Fine-Grained Image Classification](https://openreview.net/pdf?id=FwlYlM6nLj). ACM International Conference on Multimedia (ACM MM) 2024.
 
+7. Tai Zheng, Zhen-Duo Chen, **Zi-Chao Zhang**, Zhen-Xiang Ma, Li-Jun Zhao, Chong-Yu Zhang, Xin Luo, Xin-Shun Xu. [DGPrompt: Dual-guidance prompts generation for vision-language models](https://www.sciencedirect.com/science/article/abs/pii/S089360802500351X). Neural Networks 2025.
 
 ### Projects
 
